@@ -18,7 +18,7 @@ def get_args():<br/>
 &emsp;parser.add_argument('-z', help='Help text for option Z', type=int)<br/>
 &emsp;print(parser.parse_args())<br/><br/>
 
-if __name__=='__main__':<br/>
+if &#95;&#95;name&#95;&#95;=='&#95;&#95;main&#95;&#95;':<br/>
 &emsp;get_args()
 <br/><br/>
 ![Screen Shot 11-16-21 at 03 30 PM](https://user-images.githubusercontent.com/46776355/142159168-8b2b22c3-f922-48ae-aabc-0de04affb1d6.PNG)

@@ -1,3 +1,4 @@
+# Getting Started <br/>
 import argparse<br/>
 parser = argparse.ArgumentParser(<br/>
 &emsp;&emsp;description = "A simple argument parser",<br/>
